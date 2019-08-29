@@ -1,0 +1,37 @@
+{
+  "name": "userlogin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "file-exists": "^5.0.1",
+    "firebase": "^6.4.2",
+    "history": "^4.9.0",
+    "react": "^16.8.5",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.8.5",
+    "react-excel-renderer": "^1.1.0",
+    "react-files": "^2.4.8",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "xlsx": "^0.15.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
